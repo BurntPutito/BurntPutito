@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BurntPutito
 - 👀 I’m interested in Playing any video games
-- 🌱 I’m currently learning Java
+- 🌱 I love to explore modding and create unique ideas
 
 
 <!---
