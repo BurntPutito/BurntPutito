@@ -26,11 +26,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 
 ### 🎮 Game Engines & Related
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=flat&logo=godot-engine&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%230E1128.svg?style=flat&logo=unrealengine&logoColor=white)
 
