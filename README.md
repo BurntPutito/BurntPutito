@@ -58,8 +58,14 @@
 ![PlayStation](https://img.shields.io/badge/PlayStation-%230070D1.svg?style=flat&logo=playstation&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BurntPutito&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BurntPutito&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br/> ![](https://nirzak-streak-stats.vercel.app/?user=BurntPutito&theme=gruvbox&hide_border=true)
+# 📊 GitHub Stats
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BurntPutito&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BurntPutito&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact) |
+| :-: | :-: |
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=BurntPutito&theme=gruvbox&hide_border=true"/>
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BurntPutito&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
