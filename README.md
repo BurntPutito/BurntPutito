@@ -5,9 +5,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jaspharooney) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mark-jaspher-p-caitan-a68220330) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Healthy_Advantage_99) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24933473) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCujCvXSC0ZAO3jbymg8dUYw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:markcaitan18@gmail.com) 
 
-💻 Tech Stack / Familiar With
-
-<div align="center">
+# 💻 Tech Stack / Familiar With
 
 ### 🧠 Programming Languages
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
@@ -56,7 +54,6 @@
 ![Xbox](https://img.shields.io/badge/Xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white)
 ![PlayStation](https://img.shields.io/badge/PlayStation-%230070D1.svg?style=flat&logo=playstation&logoColor=white)
 
-</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BurntPutito&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BurntPutito&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br/> ![](https://nirzak-streak-stats.vercel.app/?user=BurntPutito&theme=gruvbox&hide_border=true)
