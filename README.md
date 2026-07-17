@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my [Personal Website Portfolio](nahhttps://burntputito.github.io)<br>
+🔭 I’m currently working on my [Personal Website Portfolio](https://burntputito.github.io)<br>
 🤝 I’m very open in improving my skills and unravel new learnings from anyone<br>
 🌱 I’m currently learning Front and Back-End Web Development<br>
 💬 My hobbies are Playing Games, Modding, Designing/Customizing, Programming, Creating Games, Cooking, Modding Keyboards.<br>
